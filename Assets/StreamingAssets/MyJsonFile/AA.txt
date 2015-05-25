@@ -1,0 +1,67 @@
+{
+    "root": {
+        "animSequence": {
+            "animNode": [
+                {
+                    "fadeIn": "0",
+                    "resName": "n/40002",
+                    "speed": "1.2675",
+                    "timeEnd": "3.155818",
+                    "timeStart": "0",
+                    "uniqueName": "CAnimNodeRole"
+                },
+                {
+                    "fadeIn": "0",
+                    "resName": "n/00021",
+                    "speed": "1.2675",
+                    "timeEnd": "6.307818",
+                    "timeStart": "3.152",
+                    "uniqueName": "CAnimNodeRole"
+                },
+                {
+                    "fadeIn": "0",
+                    "resName": "n/04004",
+                    "speed": "1.2675",
+                    "timeEnd": "9.463819",
+                    "timeStart": "6.308",
+                    "uniqueName": "CAnimNodeRole"
+                },
+                {
+                    "fadeIn": "0",
+                    "resName": "n/44002(240)",
+                    "speed": "1.2675",
+                    "timeEnd": "15.76664",
+                    "timeStart": "9.455001",
+                    "uniqueName": "CAnimNodeRole"
+                },
+                {
+                    "fadeIn": "0",
+                    "resName": "n/44003",
+                    "speed": "1.2675",
+                    "timeEnd": "18.91882",
+                    "timeStart": "15.763",
+                    "uniqueName": "CAnimNodeRole"
+                },
+                {
+                    "fadeIn": "0",
+                    "resName": "n/40003",
+                    "speed": "1.2675",
+                    "timeEnd": "22.07382",
+                    "timeStart": "18.918",
+                    "uniqueName": "CAnimNodeRole"
+                },
+                {
+                    "fadeIn": "0",
+                    "resName": "n/00022",
+                    "speed": "1.2675",
+                    "timeEnd": "25.22682",
+                    "timeStart": "22.071",
+                    "uniqueName": "CAnimNodeRole"
+                }
+            ],
+            "endTime": "25.286",
+            "name": "roleAnim",
+            "startTime": "0"
+        }
+    }
+}

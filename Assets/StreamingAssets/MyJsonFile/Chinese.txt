@@ -1,0 +1,12 @@
+﻿{
+    "version": "1.0",
+    "data": {
+        "sampleArray": [
+            "string value啊啊啊",
+            5,
+            {
+                "name": "去去去sub object"
+            }
+        ]
+    }
+}
